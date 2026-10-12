@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE_%
+Naive (lag-24h),4.357,7.071,4.37
+Linear Regression,3.31,4.671,3.32
+XGBoost,2.987,4.365,3.04

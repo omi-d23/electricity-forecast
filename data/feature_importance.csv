@@ -1,0 +1,12 @@
+,importance
+lag_1h,0.57670546
+lag_168h,0.13852511
+lag_24h,0.1329485
+hour_sin,0.03069739
+is_weekend,0.029788854
+hour_cos,0.029208664
+dow_cos,0.018167958
+dow_sin,0.013209204
+roll_mean_24h,0.010934221
+month,0.010379381
+roll_std_24h,0.0094352905
